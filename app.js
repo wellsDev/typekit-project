@@ -1,1 +1,1 @@
-$(h1).hide();
+$('h1').css('font-family', 'baskerville-urw');
